@@ -1,0 +1,24 @@
+.schools {
+  color: red;
+}
+
+.education {
+  font-family: cursive;
+}
+
+.experience {
+  font-family: fantasy;
+}
+
+.jobs {
+  color: green;
+}
+
+.skills {
+  font-family: serif;
+  font-size: 22px;
+}
+
+.skillset {
+  color: purple;
+}
